@@ -11,7 +11,7 @@ Permissions---->
 
 //Service (Add this above application tag in Android Manifest)-->
 
-<service android:name="com.android.support.Launcher" android:enabled="true"
+/// <service android:name="com.android.support.Launcher" android:enabled="true"
     android:exported="false" android:stopWithTask="true" />
     
 //Add this in MainActivity of Game below onCreate Method--->
